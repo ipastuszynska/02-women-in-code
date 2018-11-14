@@ -13,7 +13,14 @@ body {
     border-radius: 0;
 }
 
+#form {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
 
+#form p {
+  font-size: 22px;
+}
 
 /*
 
