@@ -1,6 +1,6 @@
 
 .jumbotron {
-  
+
 }
 
 .jumbotron h1 {
@@ -29,6 +29,11 @@ h2 {
   padding-bottom: 20px;
 }
 
+#badgeGrace, #badgeAda, #badgeKat {
+  min-width: 150px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 .tilt {
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
