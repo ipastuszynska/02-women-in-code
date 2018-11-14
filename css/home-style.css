@@ -1,3 +1,28 @@
+
+
+.jumbotron {
+  background: url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0;
+  min-height: 400px;
+  padding-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
 body {
   background: url("../images/background.jpg");
   background-size: auto;
@@ -196,3 +221,4 @@ footer {
     max-width: none;
   }
 }
+-->
