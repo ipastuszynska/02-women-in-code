@@ -1,23 +1,17 @@
 
 
-.jumbotron {
-  background: url("../images/background.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  border-radius: 0;
-  min-height: 400px;
-  padding-top: 100px;
+
+.jumbotron h1 {
+  text-shadow: 4px 4px 5px red;
 }
 
 
-
-
-
-
-
-
-
-
+body {
+    background: url("../images/background(2).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0;
+}
 
 
 
