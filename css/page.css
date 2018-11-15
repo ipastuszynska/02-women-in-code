@@ -1,5 +1,5 @@
 #imgAda {
-max-width: 50%;
+  max-width: 50%;
 }
 
 dl {
@@ -11,7 +11,16 @@ dl {
   padding: 0px;
 }
 
-.container p, blockquote {
+.jumbotron h1 {
+  color: #eff1f3;
+  text-shadow: 1px 1px 1px black;
+}
+
+.jumbotron dl {
+  font-size: 18px;
+}
+
+.container p {
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -22,7 +31,9 @@ dl {
 
 #intro {
   padding-top: 30px;
+  color: #4d2d52;
 }
+
 /*
 
 body {
