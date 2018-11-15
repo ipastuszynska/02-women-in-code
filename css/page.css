@@ -17,16 +17,20 @@ dl {
 }
 
 .jumbotron dl {
-  font-size: 18px;
+  font-size: 20px;
+}
+
+.nav-link {
+  color: black;
+}
+
+.container h2 {
+  padding-top: 30px;
 }
 
 .container p {
   padding-left: 20px;
   padding-right: 20px;
-}
-
-.container h2 {
-  padding-top: 30px;
 }
 
 #intro {
@@ -43,10 +47,6 @@ dl {
   font-size: 30px;
 }
 
-.nav-link {
-  color: black;
-}
-
 footer {
   font-size: 10px;
   border-top: 1px solid grey;
@@ -54,147 +54,4 @@ footer {
 
 footer a {
   color: grey;
-}
-/*
-
-body {
-  background: url("../images/background.jpg");
-  background-size: auto;
-  background-position: fixed;
-  background-attachment: fixed;
-  background-repeat: repeat;
-  background-position: top;
-  background-size: 100%;
-}
-
-#navKat {
-  background-image: url("../images/katherine.jpg");
-}
-
-#navGrace {
-  background-image: url("../images/grace.jpg");
-}
-
-#navAda {
-  background-image: url("../images/ada.jpg");
-}
-
-nav {
-  background-repeat: no-repeat;
-  background-size: 100%;
-  width: 300px;
-  margin: 0 auto;
-}
-
-nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-  opacity: 0.7;
-  width: 200px;
-}
-
-nav li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-nav li a:hover {
-  color: #3f88c5;
-  background-color: #333;
-  opacity: clear;
-}
-
-nav ul:hover {
-  opacity: 1;
-}
-
-h2 {
-  color: #3f88c5;
-  font-size: 35px;
-  padding-top: 20px;
-  font-family: 'LatoRegular';
-  font-weight: bold;
-  font-style: normal;
-  border-bottom: solid #3f88c5 5px;
-  padding-bottom: 10px;
-}
-
-h3 {
-  color: #3f88c5;
-}
-
-main {
-  width: 90%;
-  margin: 0 auto;
-}
-
-main article {
-  background: #e8e288;
-  opacity: 0.9;
-  padding: 15px;
-  margin: 15px;
-}
-
-main p {
-  color: #333;
-  font-size: 18px;
-}
-
-#MainParagraph {
-  color: #333;
-  font-size: 22px;
-}
-
-.blue {
-  font-weight: bold;
-  color: #3f88c5;
-}
-
-#backUp a {
-  color: white;
-  text-align: center;
-  background-color: #333;
-  text-decoration: none;
-  padding: 10px 10px;
-  margin-top: 5px;
-}
-
-#backUp {
-  text-align: center;
-  font: 12px;
-}
-
-footer {
-  text-align: center;
-  color: white;
-  margin-top: 80px;
-}
-
-@media screen and (min-width: 1024px) {
-  #wrapper {
-    width: 90%;
-  }
-
-  nav {
-    width: 30%;
-    max-width: 300px;
-    margin-right: 5%;
-    margin-left: 5%;
-    position: fixed;
-  }
-
-  main {
-    width: 60%;
-    float: right;
-  }
-
-  footer {
-    clear: both;
-  }
 }
