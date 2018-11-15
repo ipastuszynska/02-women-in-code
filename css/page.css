@@ -11,8 +11,18 @@ dl {
   padding: 0px;
 }
 
+.container p, blockquote {
+  padding-left: 20px;
+  padding-right: 20px;
+}
 
+.container h2 {
+  padding-top: 30px;
+}
 
+#intro {
+  padding-top: 30px;
+}
 /*
 
 body {
