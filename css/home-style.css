@@ -1,5 +1,14 @@
+.jumbotron {
+  margin: 0px;
+  padding: 0px;
+}
+
 .jumbotron h1 {
   text-shadow: 4px 4px 5px white;
+}
+
+.nav-link {
+  color: black;
 }
 
 body {
