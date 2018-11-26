@@ -1,6 +1,7 @@
 .jumbotron {
   margin: 0px;
   padding: 0px;
+  max-height: 50vh;
 }
 
 .jumbotron h1 {
@@ -70,4 +71,15 @@ footer a {
 .carousel p {
   margin-left: 10px;
   margin-right: 10px;
+}
+
+.carousel img {
+ height: 70vh;
+ width: auto;
+}
+
+/*
+ vertical-align: middle;
+ object-fit: cover;
+ overflow: hidden;
 }
